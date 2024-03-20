@@ -1,16 +1,7 @@
 # maplabs
 
-A new Flutter project.
+A new Flutter project for CS 5995 lab 8, a simple app with maps with 3 favorite places marked around duluth. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot from 2024-03-19 17-51-07](https://github.com/Stanley-Sujith-Nelavala/CS5995-sample-maps-app-flutter/assets/89980508/543d9666-adde-4bd0-9df7-35c49f5d30f8)
+![Screenshot from 2024-03-19 17-50-58](https://github.com/Stanley-Sujith-Nelavala/CS5995-sample-maps-app-flutter/assets/89980508/89ed2b59-7607-4943-9581-c45a9f81b375)
+![Screenshot from 2024-03-20 00-07-59](https://github.com/Stanley-Sujith-Nelavala/CS5995-sample-maps-app-flutter/assets/89980508/1259ed4b-a013-479e-bd91-dbf78565efc9)
